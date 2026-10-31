@@ -37,4 +37,7 @@ The project includes various analytical queries solving problems such as:
 * `Q-1.sql` to `Q-13.sql` - Individual SQL queries answering specific business and revenue questions.
 * `SQL_Project.sql` - Database setup script containing table creation queries (`CREATE TABLE` for orders, order_details, etc.).
 
----[Pizza_Sales_SQL.pdf](https://github.com/user-attachments/files/34221948/Pizza_Sales_SQL.pdf)
+---
+
+## 📊 Project Presentation
+* **Presentation Deck:** [Click Here to View Project Presentation PDF](https://github.com/nikhildhyani-code/pizza-sales-sql-project/files/34221948/Pizza_Sales_SQL.pdf)

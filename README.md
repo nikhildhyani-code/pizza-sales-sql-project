@@ -38,4 +38,4 @@ The project includes various analytical queries solving problems such as:
 * `SQL_Project.sql` - Database setup script containing table creation queries (`CREATE TABLE` for orders, order_details, etc.).
 
 ## 📊 Project Presentation
-* **Presentation Deck:** [📥 View Project Presentation on Google Drive](https://drive.google.com/file/d/1-sZ_PXAvIqC_5rUMREg0ALq-kgGciMCO/view?usp=sharing)
+* **Visual Walkthrough & Slides:** [📥 Access Presentation PDF](https://drive.google.com/file/d/1-sZ_PXAvIqC_5rUMREg0ALq-kgGciMCO/view?usp=sharing)

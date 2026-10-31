@@ -40,4 +40,6 @@ The project includes various analytical queries solving problems such as:
 ---
 
 ## 📊 Project Presentation
-* **Presentation Deck:** [Click Here to View Project Presentation PDF](https://github.com/nikhildhyani-code/pizza-sales-sql-project/files/34221948/Pizza_Sales_SQL.pdf)
+* **Presentation Deck:** [Click Here to View Project Presentation PDF]([Pizza_Sales_SQL.pdf](https://github.com/user-attachments/files/34222122/Pizza_Sales_SQL.pdf)
+
+---
